@@ -10,6 +10,7 @@ Local-first systems that rank, draft, retrieve, or audit information, then stop 
 
 | Project | What it is | Stack |
 |---|---|---|
+| [audit-rag-assistant](https://github.com/Anondevnet/audit-rag-assistant) | Cited RAG assistant over a license-cleared smart-contract weakness corpus, with a [live demo](https://audit-rag-assistant.onrender.com/). Mean recall@5 0.84, doc recall 1.0, citation and refusal accuracy 1.0 on 20 approved goldens. | Python, FastAPI, SQLite |
 | [contract-auditor](https://github.com/Anondevnet/contract-auditor) | Local-first smart-contract security auditing and research engine | Python, Solidity, SQLite |
 | [polymarket-x-growth-engine](https://github.com/Anondevnet/polymarket-x-growth-engine) | X content engine with LLM drafting, reply-potential scoring, sentiment analysis, and a learning loop (38 tests) | Python, Anthropic, Streamlit, SQLite |
 | [ai-video-pipeline](https://github.com/Anondevnet/ai-video-pipeline) | Restartable short-form video pipeline with a Kling client and a tested ffmpeg mock mode (75 tests) | Python, ffmpeg |
