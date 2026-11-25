@@ -25,4 +25,4 @@ Python, Rust, TypeScript, SQLite, FastAPI, Flask, Streamlit, LangGraph, MCP, Qdr
 
 Open to remote roles in applied AI and LLM engineering, AI automation, and AI security.
 
-[LinkedIn](https://www.linkedin.com/in/anon-devnet-b158b2446/) · [X](https://x.com/Liquidmexx)
+[LinkedIn](https://www.linkedin.com/in/anon-devnet-b158b2446/)
