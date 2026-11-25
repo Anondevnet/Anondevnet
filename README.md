@@ -15,7 +15,7 @@ Local-first systems that rank, draft, retrieve, or audit information, then stop 
 | [trend-intelligence](https://github.com/Anondevnet/trend-intelligence) | Local-first crypto and AI trend platform: collect, score, backtest, and draft sourced reports with posting safeguards (231 tests). | Python, SQLite, Anthropic |
 | [cyberintel-x](https://github.com/Anondevnet/cyberintel-x) | Local-first cybersecurity research environment with shared search, provenance, and AI retrieval (Phase 1 of 6). | Python, FastAPI, SQLite |
 
-Also on this profile: [ai-video-pipeline](https://github.com/Anondevnet/ai-video-pipeline), a restartable short-form video pipeline with a Kling client and a tested ffmpeg mock mode (75 tests); and [polymarket-x-growth-engine](https://github.com/Anondevnet/polymarket-x-growth-engine), an X content engine with LLM drafting, reply-potential scoring, sentiment analysis, and a learning loop (38 tests).
+Also on this profile: [ai-video-pipeline](https://github.com/Anondevnet/ai-video-pipeline), a restartable short-form video pipeline with a Kling client and a tested ffmpeg mock mode (75 tests).
 
 ## Tech stack
 
